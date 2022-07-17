@@ -1,0 +1,13 @@
+Name="Vivek Kumar"
+print(Name.upper())
+print(Name)
+print(Name.find("K"))
+print(Name.find('V'))
+print(Name.replace('Kumar','Bittu'))
+print("K" in Name)
+print("J" in Name)
+print(5-2)
+print(8+3)
+print(5*2)
+print(5/2)
+print(5//2)
